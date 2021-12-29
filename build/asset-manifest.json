@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7d56b723.css",
+    "main.js": "/static/js/main.72dd25f3.js",
+    "static/js/787.4c4c33c9.chunk.js": "/static/js/787.4c4c33c9.chunk.js",
+    "static/media/Rig_Inamura2.jpg": "/static/media/Rig_Inamura2.1a710c1f2766586ff3b2.jpg",
+    "static/media/header.jpg": "/static/media/header.5dc3dac6d2ea3c11ce95.jpg",
+    "static/media/ic_502_01.jpg": "/static/media/ic_502_01.61fe2be3c7c83f88ff4e.jpg",
+    "static/media/Rig_Inamura2b.jpg": "/static/media/Rig_Inamura2b.a9e36fbe4a8829ff263c.jpg",
+    "static/media/Rig_Inamura1b.jpg": "/static/media/Rig_Inamura1b.2a6e8756c3e9f44e5e8f.jpg",
+    "static/media/Rig_Inamura4b.jpg": "/static/media/Rig_Inamura4b.8439b928836ea8ac3f11.jpg",
+    "index.html": "/index.html",
+    "main.7d56b723.css.map": "/static/css/main.7d56b723.css.map",
+    "main.72dd25f3.js.map": "/static/js/main.72dd25f3.js.map",
+    "787.4c4c33c9.chunk.js.map": "/static/js/787.4c4c33c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d56b723.css",
+    "static/js/main.72dd25f3.js"
+  ]
+}
