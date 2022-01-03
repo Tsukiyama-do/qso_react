@@ -69,3 +69,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # qso_react  Happy Holiday
+
+
+# Memo Jan. 3 2021
+
+1. qso_start.sh を更新
+     port#   8443, cert file, private file path.
+2. create folder of private 
+3. github push
+4. github pull on server
+5. run getssl to get ssl   (https://github.com/srvrco/getssl)
