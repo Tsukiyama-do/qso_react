@@ -1,8 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.7d56b723.css",
-    "main.js": "/static/js/main.5c74165e.js",
-    "static/js/787.4c4c33c9.chunk.js": "/static/js/787.4c4c33c9.chunk.js",
+    "main.js": "/static/js/main.f886fad1.js",
     "static/media/Rig_Inamura2.jpg": "/static/media/Rig_Inamura2.1a710c1f2766586ff3b2.jpg",
     "static/media/header.jpg": "/static/media/header.9c0c3f322ab8d840b08c.jpg",
     "static/media/ic_502_01.jpg": "/static/media/ic_502_01.61fe2be3c7c83f88ff4e.jpg",
@@ -11,11 +10,10 @@
     "static/media/Rig_Inamura4b.jpg": "/static/media/Rig_Inamura4b.8439b928836ea8ac3f11.jpg",
     "index.html": "/index.html",
     "main.7d56b723.css.map": "/static/css/main.7d56b723.css.map",
-    "main.5c74165e.js.map": "/static/js/main.5c74165e.js.map",
-    "787.4c4c33c9.chunk.js.map": "/static/js/787.4c4c33c9.chunk.js.map"
+    "main.f886fad1.js.map": "/static/js/main.f886fad1.js.map"
   },
   "entrypoints": [
     "static/css/main.7d56b723.css",
-    "static/js/main.5c74165e.js"
+    "static/js/main.f886fad1.js"
   ]
 }
