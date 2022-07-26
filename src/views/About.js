@@ -36,7 +36,7 @@ export const About = () =>  (
                     <Card.Title>JJ1POW局について</Card.Title>
                     <Card.Text>OP : ５０代のカムバックハムです。１９８０年頃に２エリアでも局を開いてました。</Card.Text>
                     <Card.Text>QTH : 鎌倉市の浜および山岳エリア、さらに江ノ島や逗子で移動運用しています。自宅は江ノ電極楽寺駅近くです。</Card.Text>
-                    <Card.Text>JARL : 本局はJARL非会員です。</Card.Text>
+                    <Card.Text>JARL : 本局はJARLに未登録です。</Card.Text>
                     <Card.Text>QRZ.com : 本局は登録しています。サイト<a href="https://qrz.com">qrz.com</a>にアクセスしてください。</Card.Text>
                     <Card.Text>e-mailによる連絡 : jj1pow.jp@gmail.com</Card.Text>
                     <Button variant="primary">Go somewhere</Button>
@@ -47,10 +47,10 @@ export const About = () =>  (
             <Card>
                   <Card.Body>
                     <Card.Title>ハムラジ装置について</Card.Title>
-                    <Card.Text>周波数/モード/出力：50MHz SSB/CW 3W, 144-430MHz FM 1W, HF All 50W</Card.Text>
-                    <Card.Text>リグ：井上電機製作所（ICOM）IC-502,NKT NKT-4G,YAESU FT-857DM</Card.Text>
-                    <Card.Text>アンテナ:リグ内蔵のホイップアンテナ、自作ツエップアンテナ</Card.Text>
-                    <Card.Text>電源：モバイルバッテリー＋昇圧ブースター</Card.Text>
+                    <Card.Text>周波数/モード/出力：50MHz SSB/CW 3W, 144-430MHz FM 1W, 3.5,7,18,21,28MHz SSB/CW 5W</Card.Text>
+                    <Card.Text>リグ：井上電機製作所（ICOM）IC-502,NKT NKT-4G,Hanyu Technology uSDX+</Card.Text>
+                    <Card.Text>アンテナ:リグ内蔵のホイップアンテナ、自作ツエップアンテナ、自作ループ</Card.Text>
+                    <Card.Text>電源：モバイルバッテリー＋昇圧ブースター　KEY: HiMound HK-708, 自作パドル</Card.Text>
                     <Button variant="primary">Go somewhere</Button>
                   </Card.Body>
                 </Card>

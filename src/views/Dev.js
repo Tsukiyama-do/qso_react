@@ -1,7 +1,8 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import { Container, Row, Jumbotron,Card, Col, Button } from 'react-bootstrap'
-import IC502 from '../assets/ic_502_01.jpg'
+//import IC502 from '../assets/ic_502_01.jpg'
+import IC502 from '../assets/jj1powRig2.jpeg'
 import styled from 'styled-components'
 
 
@@ -27,6 +28,27 @@ export const Dev = () =>  (
         <Jumbotron>
         <h1>開発中です</h1>
         <p>開発中のプログラムがあります</p>
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
         <br />
         <br />
         <br />
